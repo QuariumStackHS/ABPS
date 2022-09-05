@@ -1,1 +1,1 @@
-Nothing
+echo "Nothing just got pownd"
